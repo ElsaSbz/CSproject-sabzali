@@ -3,7 +3,7 @@
 **Convertor**
 
 
-Create a program that can be used to converttemperature, length, weight, pressure.
+Create a program that can be used to convert temperature, length, weight, pressure.
 
 Your program should have a menu displayed for the user to choose from, where are listed the convertion options:
 
@@ -12,11 +12,14 @@ fahrenheit to celsius
 celsius to fahrenheit 
 
 -length
-miles to km km to miles
+miles to km 
+km to miles
 
 -weight
 pound to kilogramms 
-kg to poundexit
+kg to pound
+
+exit
 
 
 
